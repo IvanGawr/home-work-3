@@ -1,0 +1,22 @@
+main{
+    font-size: 2rem;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+/* я не понимаю как сделать адекватную расскраску строчек */
+
+tbody tr{
+    border: 4px;
+    border-style: ridge;
+}
+
+
+td {
+    border: 4px;
+    border-style: ridge;
+    caption-side: center;
+}
+
